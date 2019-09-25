@@ -2,5 +2,8 @@ package first;
 
 public class Second
 {
-	Second() {}
+	Second() {
+
+	System.out.println();
+	}
 }
